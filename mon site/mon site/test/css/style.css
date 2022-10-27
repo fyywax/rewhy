@@ -1,0 +1,23 @@
+nav.menu-nav ul li.bouton{
+	display: inline-block;
+	list-style-type: none;
+}
+
+nav.menu-nav ul li.bouton a{
+	color: lightgoldenrodyellow;
+	background-color: #2f4f4f;
+	text-decoration: none;
+	padding: 10px;
+	padding-left: 0px;
+}
+
+
+nav.menu-nav ul li.bouton:hover a{
+	color: red;
+	background-color: #1e3333;
+	transition: 0.5s;
+}
+
+
+p{color: lightyellow;}
+body{background-color: #2f4f4f;}
